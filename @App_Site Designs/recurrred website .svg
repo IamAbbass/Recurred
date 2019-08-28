@@ -1,0 +1,311 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="4955" viewBox="0 0 1920 4955">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.042" y1="0.064" x2="0.986" y2="0.981" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5a67ff"/>
+      <stop offset="1" stop-color="#9b2bcc"/>
+    </linearGradient>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 4492 3369">
+      <image width="4492" height="3369" xlink:href="recurrred%20website%20-image.jpg"/>
+    </pattern>
+    <linearGradient id="linear-gradient-2" x1="0.07" y1="0.058" x2="1.134" y2="1.202" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0" y1="0" x2="0.898" y2="0.901" xlink:href="#linear-gradient"/>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 5760 5075">
+      <image width="5760" height="5075" xlink:href="recurrred%20website%20-image2.jpg"/>
+    </pattern>
+    <pattern id="pattern-3" width="1" height="1" viewBox="39.436 13.567 88.433 88.433">
+      <image preserveAspectRatio="xMidYMid slice" width="153" height="102" xlink:href="recurrred%20website%20-image5.jpg"/>
+    </pattern>
+    <pattern id="pattern-4" width="1" height="1" viewBox="48.698 7.957 69.839 69.839">
+      <image preserveAspectRatio="xMidYMid slice" width="153.014" height="102" xlink:href="recurrred%20website%20-image6.jpg"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 2403 3600">
+      <image width="2403" height="3600" xlink:href="recurrred%20website%20-image7.jpg"/>
+    </pattern>
+    <pattern id="pattern-6" width="1" height="1" viewBox="44.175 5.923 70.398 70.398">
+      <image preserveAspectRatio="xMidYMid slice" width="153" height="102" xlink:href="recurrred%20website%20-image8.jpg"/>
+    </pattern>
+    <linearGradient id="linear-gradient-7" x1="-0.165" y1="-0.042" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="0.07" y1="0.058" x2="1.134" y2="1.202" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#545fd8"/>
+      <stop offset="1" stop-color="#9b2bcc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0" y1="0" x2="1.247" y2="1.167" xlink:href="#linear-gradient"/>
+    <pattern id="pattern-7" width="1" height="1" viewBox="35.782 62.098 1011.864 546.801">
+      <image preserveAspectRatio="xMidYMid slice" width="1253.569" height="917.822" xlink:href="recurrred%20website%20-image9.jpg"/>
+    </pattern>
+    <filter id="Rectangle_1" x="111" y="1755.91" width="290" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-2" x="165.261" y="484" width="290" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Wavy_-_desktop">
+      <rect width="1920" height="4955"/>
+    </clipPath>
+    <image id="image-2" width="960" height="540" xlink:href="../Dashboard%20Screen.png"/>
+  </defs>
+  <g id="Wavy_-_desktop" data-name="Wavy - desktop" clip-path="url(#clip-Wavy_-_desktop)">
+    <rect width="1920" height="4955" fill="#fff"/>
+    <g id="Footer" transform="translate(0 4593.785)">
+      <rect id="Background" width="1919.5" height="372" fill="#0d1138"/>
+      <text id="Copyright_2019_RECURRRED._All_rights_reserved." data-name="Copyright  © 2019 RECURRRED. All rights reserved." transform="translate(959.637 327)" fill="#fff" font-size="16" font-family="Helvetica" opacity="0.5"><tspan x="-188.188" y="0" xml:space="preserve">Copyright  © 2019 RECURRRED. All rights reserved.</tspan></text>
+      <g id="Social" transform="translate(1592.5 310)">
+        <path id="social-media-facebook" d="M17.768,7.5H13.5V5.6a.972.972,0,0,1,1.012-1.1c.418,0,2.988.01,2.988.01V.5H13.171C9.244.5,8.5,3.474,8.5,5.355V7.5h-3v4h3v12h5v-12h3.851Z" transform="translate(-5.5 -0.5)" fill="#fff"/>
+        <path id="social-media-twitter" d="M23,6.628l-2-.5,1-2-2.464.7A4.48,4.48,0,0,0,12,8.128v1c-3.539.73-6.634-1.2-9.5-4.5q-.75,4,1.5,6l-3-.5c.4,2.069,1.362,3.7,4,4l-2.5,1c1,2,2.566,2.31,5,2.5a10.748,10.748,0,0,1-6.5,2c12.755,5.669,20-2.664,20-10V8.3Z" transform="translate(118 -0.624)" fill="#fff"/>
+        <path id="social-video-youtube-clip" d="M23.5,6.939A3.438,3.438,0,0,0,20.062,3.5H3.937A3.438,3.438,0,0,0,.5,6.939V16.06A3.438,3.438,0,0,0,3.937,19.5H20.062A3.438,3.438,0,0,0,23.5,16.06Zm-14,8.5V6.779l6.769,4.331Z" transform="translate(53.5 0.5)" fill="#fff"/>
+        <g id="social-instagram" transform="translate(182.998 0.002)">
+          <path id="Exclusion_2" data-name="Exclusion 2" d="M17,23H6a6.007,6.007,0,0,1-6-6V6A6.007,6.007,0,0,1,6,0H17a6.007,6.007,0,0,1,6,6V17A6.007,6.007,0,0,1,17,23ZM11.5,5.5a6,6,0,1,0,6,6A6.006,6.006,0,0,0,11.5,5.5Zm7-2.5A1.5,1.5,0,1,0,20,4.5,1.5,1.5,0,0,0,18.5,3Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Logo" transform="translate(120 314.5)">
+        <text id="RECURRRED" transform="translate(132.144 17.5)" fill="#fff" font-size="22" font-family="Helvetica" letter-spacing="0.1em"><tspan x="-79.081" y="0">RECURRRED</tspan></text>
+        <path id="Path_24" data-name="Path 24" d="M346.6,323.87a6.7,6.7,0,0,1,3.7-.4,9.482,9.482,0,0,1,3.6,1.514c1.046.7,1.936,1.457,2.727,2.093a11.3,11.3,0,0,0,2.152,1.438,5.172,5.172,0,0,0,.973.365,5.592,5.592,0,0,0,1.033.2c.092.008.184.016.276.029l.29.011c.194.017.388,0,.582,0s.373-.031.557-.048c.174-.035.355-.051.518-.1a4.806,4.806,0,0,0,.963-.34,5.173,5.173,0,0,0,.95-.564,19.555,19.555,0,0,0,2.1-1.9,21.647,21.647,0,0,1,2.785-2.467,10.8,10.8,0,0,1,1.843-1.068,8.983,8.983,0,0,1,2.073-.674,10.646,10.646,0,0,1,1.057-.161c.348-.025.7-.051,1.038-.049s.678,0,1.014.041l.5.051.509.084a9.381,9.381,0,0,1,3.829,1.563,12.5,12.5,0,0,1,2.693,2.637c.72.909,1.32,1.8,1.968,2.586a10.831,10.831,0,0,0,1.017,1.1,7.156,7.156,0,0,0,1.17.916,8.615,8.615,0,0,0,2.927,1.132h0a.169.169,0,0,1,0,.332,8.261,8.261,0,0,1-1.722.152,7.533,7.533,0,0,1-.89-.058,8.32,8.32,0,0,1-.888-.178,9.648,9.648,0,0,1-3.26-1.615c-.966-.7-1.814-1.469-2.622-2.134a13.993,13.993,0,0,0-1.2-.9,6.978,6.978,0,0,0-1.165-.655,5.705,5.705,0,0,0-1.163-.375c-.191-.053-.4-.065-.592-.1-.207-.007-.4-.041-.612-.031a7.112,7.112,0,0,0-2.415.359,5.664,5.664,0,0,0-1.938,1.164,22.481,22.481,0,0,0-1.968,2.079,19.774,19.774,0,0,1-2.65,2.643,10.312,10.312,0,0,1-3.939,2c-.365.105-.729.161-1.094.229-.361.047-.726.094-1.081.113s-.709.036-1.063.019l-.532-.017-.543-.057a9.59,9.59,0,0,1-4.191-1.506,12.058,12.058,0,0,1-2.9-2.75c-.737-.938-1.3-1.841-1.863-2.627a10.676,10.676,0,0,0-1.844-2.123A10.531,10.531,0,0,0,346.6,324.2l0,0a.18.18,0,0,1,0-.331Z" transform="translate(-346.485 -321.736)" fill="#fff"/>
+      </g>
+      <line id="Line_30" data-name="Line 30" x2="1919.5" transform="translate(0.5 265.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+      <g id="Contacts" transform="translate(768.122 66)">
+        <text id="Get_in_touch_" data-name="Get in touch!" transform="translate(193 22)" fill="#fff" font-size="28" font-family="Helvetica"><tspan x="-79.379" y="0">Get in touch!</tspan></text>
+        <g id="pin" transform="translate(2.5 51)" opacity="0.5">
+          <path id="Path_133" data-name="Path 133" d="M16.438.71A11.938,11.938,0,0,1,28.375,12.648c0,5.646-8.754,19.706-11.267,23.636a.8.8,0,0,1-1.34,0C13.254,32.356,4.5,18.293,4.5,12.648A11.938,11.938,0,0,1,16.438.71Z" transform="translate(-4.5 -0.71)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="4.775" cy="4.775" rx="4.775" ry="4.775" transform="translate(7.163 7.163)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <text id="_300_Prudence_Street_Westland_Michigan_48185" data-name="300  Prudence Street, Westland, Michigan, 48185" transform="translate(39.5 75)" fill="#fff" font-size="16" font-family="Helvetica" opacity="0.3"><tspan x="0" y="0" xml:space="preserve">300  Prudence Street, Westland, Michigan, 48185</tspan></text>
+        <text id="hello_recurrred.com" data-name="hello@recurrred.com" transform="translate(234.5 131)" fill="#fff" font-size="16" font-family="Helvetica" opacity="0.5"><tspan x="0" y="0">hello@recurrred.com</tspan></text>
+        <text id="_61_40137_8390" data-name="+61 40137 8390" transform="translate(39.75 131)" fill="#fff" font-size="16" font-family="Helvetica" opacity="0.5"><tspan x="0" y="0">+61 40137 8390</tspan></text>
+        <path id="phone" d="M11.633,9.416a3.044,3.044,0,0,0,0-4.3L8.406,1.891a3.042,3.042,0,0,0-4.3,0L2.336,3.661A4.554,4.554,0,0,0,1.759,9.4,70.717,70.717,0,0,0,21.528,29.171a4.562,4.562,0,0,0,5.741-.575l1.769-1.77a3.04,3.04,0,0,0,0-4.3L25.812,19.3a3.04,3.04,0,0,0-4.3,0l-1.076,1.076a72.164,72.164,0,0,1-9.878-9.881Z" transform="translate(-1 109.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" opacity="0.5"/>
+        <g id="email-action-unread" transform="translate(194.131 115)" opacity="0.5">
+          <rect id="Rectangle_77" data-name="Rectangle 77" width="27.369" height="19.039" rx="2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_137" data-name="Path 137" d="M27.056,4.536,14.073,15.148,1.089,4.536" transform="translate(-0.388 -3.843)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Download" transform="translate(-0.044 4003.772)">
+      <g id="Background-2" data-name="Background" transform="translate(0)">
+        <path id="Path_130" data-name="Path 130" d="M1919.477-22.9c-5.331.625-11.73,2.141-17.328,3a483.41,483.41,0,0,1-58.65,6,523.228,523.228,0,0,1-93.307-5c-53.446-7.42-95.845-26.065-146.626-37-48.115-10.389-101.177-11.827-151.957-8-65.975,4.921-128.637,18.33-193.279,27-67.308,8.983-136.369,15.032-205.276,18-101.428,4.3-206.085.84-302.582-19-88.9-18.278-168.094-46.834-250.6-73C344.2-160.185,173.016-181.048.015-150.9v473c0,56.941-.133,42,0,103H1919.477v-446C1919.343-21.679,1919.743-22.2,1919.477-22.9Z" transform="translate(0.044 164.911)" fill="url(#linear-gradient)"/>
+        <path id="adult-app-business-276865" d="M1919.477-22.9c-5.331.625-11.73,2.141-17.328,3a483.41,483.41,0,0,1-58.65,6,523.228,523.228,0,0,1-93.307-5c-53.446-7.42-95.845-26.065-146.626-37-48.115-10.389-101.177-11.827-151.957-8-65.975,4.921-128.637,18.33-193.279,27-67.308,8.983-136.369,15.032-205.276,18-101.428,4.3-206.085.84-302.582-19-88.9-18.278-168.094-46.834-250.6-73C344.2-160.185,173.016-181.048.015-150.9v473c0,56.941-.133,42,0,103H1919.477v-446C1919.343-21.679,1919.743-22.2,1919.477-22.9Z" transform="translate(0.044 164.911)" opacity="0.047" fill="url(#pattern)"/>
+        <path id="Intersection_3" data-name="Intersection 3" d="M1758.571,129.954C1656.417,103.8,1558.224,75.3,1448.147,57.033,1328.665,37.2,1197.96,33.376,1072.371,37.67c-85.32,2.967-169.817,9.838-253.157,18.816-80.04,8.666-158.429,21.627-240.121,26.546-62.877,3.826-128.229,2.732-187.805-7.652C328.411,64.45,276.427,45.165,210.25,37.748A800.716,800.716,0,0,0,94.728,33.142c-24.92.78-49.674,2.732-73.769,5.855-6.932.859-13.7,2.342-20.3,2.966A10.315,10.315,0,0,1,0,39.7L.007,2.418c10.394-.8,20.625-1.4,30.855-1.9a673.011,673.011,0,0,1,122.289,6.3c69.974,10.1,125.095,36.2,191.6,51.1,63.043,14,132.191,15.5,198.7,10.4,86.477-6.7,169.489-24.3,254.151-36,88.127-12.2,177.576-21.5,267.848-25.5,133.017-6,271.48-.7,397.895,26.2,116.514,24.8,220.485,63.4,328.58,98.8q35.858,11.755,72.517,21.883Q1810.7,143.334,1758.571,129.954Z" transform="translate(1919.544 184.716) rotate(180)" fill="#fff" opacity="0.04"/>
+        <path id="Path_127" data-name="Path 127" d="M-2387.768,544V343c86.436,16.152,169.02,48.557,246,91,69.819,38.552,136.2,79.406,212,110Z" transform="translate(2387.813 46.014)" fill="#fff" opacity="0.03"/>
+      </g>
+    </g>
+    <g id="Screens" transform="translate(530.799 3332.169)">
+      <text id="Sync_across_your_devices_Your_data_your_way_RECURRRED_syncs_across_your_devices_so_whether_your_in_the_office_or_on_the_go_you_have_full_control._Secure_connection_RECURRRED_security_connects_to_more_than_15_000_financial_institutions_we_ve_invested_he" data-name="Sync across your devices
+Your data your way RECURRRED syncs across your devices so whether your in the office or on the go you have full control. 
+
+
+Secure connection
+RECURRRED security connects to more than 15,000 financial institutions, we’ve invested he" transform="translate(701.25 225.481)" fill="#969696" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan fill="#000"><tspan x="0" y="15">Sync across your devices</tspan></tspan><tspan font-size="16" font-family="Helvetica" font-weight="400"><tspan x="0" y="39">Your data your way RECURRRED syncs across your devices </tspan><tspan x="0" y="63">so whether your in the office or on the go you have full control. </tspan></tspan><tspan font-size="16" fill="#000"><tspan x="0" y="87"></tspan></tspan><tspan fill="#6e6e6e" font-size="16" font-family="Helvetica" font-weight="400"><tspan x="0" y="111"></tspan></tspan><tspan x="0" y="135" fill="#000">Secure connection</tspan><tspan y="135" fill="#6e6e6e" font-family="Helvetica" font-weight="400"></tspan><tspan fill="#6e6e6e" font-size="16" font-family="Helvetica" font-weight="400"><tspan x="0" y="159">RECURRRED security connects to more than 15,000 financial </tspan><tspan x="0" y="183">institutions, we’ve invested heavily in making sure </tspan><tspan x="0" y="207">RECURRRED uses the most up-to-date industry protocols for </tspan><tspan x="0" y="231">storing your data including bank-level 256-bit encryption.</tspan><tspan x="0" y="255"></tspan><tspan x="0" y="279"></tspan></tspan><tspan fill="#000"><tspan x="0" y="303">Notifications</tspan></tspan><tspan font-size="16" font-family="Helvetica" font-weight="400"><tspan x="0" y="327">Don’t be left unaware of upcoming payments, with </tspan><tspan x="0" y="351">RECURRRED you can be notified of up coming payments </tspan><tspan x="0" y="375">before they happen.</tspan></tspan></text>
+      <g id="Icon_-_Sync" data-name="Icon - Sync" transform="translate(469.733 228.771)">
+        <rect id="Rectangle_66" data-name="Rectangle 66" width="93.632" height="37.825" rx="18.912" transform="translate(0 46.816) rotate(-30)" opacity="0.062" fill="url(#linear-gradient-2)"/>
+        <rect id="Rectangle_58" data-name="Rectangle 58" width="67.589" height="67.588" rx="33.794" transform="translate(16.122 6.201)" fill="#5a67ff"/>
+        <g id="synchronize-arrows-1" transform="translate(29.661 25.178)">
+          <path id="Path_91" data-name="Path 91" d="M.714,10.353l5.023,7.479,5.776-6.917" transform="translate(-0.714 2.003)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_92" data-name="Path 92" d="M28.092,17.985,23.073,10.5l-5.779,6.918" transform="translate(12.585 2.123)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_93" data-name="Path 93" d="M32.048,10.54A15.538,15.538,0,0,1,20.316,28.073,15.305,15.305,0,0,1,6.023,24.065" transform="translate(3.545 2.153)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_94" data-name="Path 94" d="M3.716,23.288A15.954,15.954,0,0,1,15.5,3.91a15.305,15.305,0,0,1,15,4.761" transform="translate(1.314 -3.497)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Icon_-_Secure" data-name="Icon - Secure" transform="translate(469.733 366.771)">
+        <rect id="Rectangle_70" data-name="Rectangle 70" width="93.632" height="37.825" rx="18.912" transform="translate(0 46.816) rotate(-30)" opacity="0.062" fill="url(#linear-gradient-2)"/>
+        <rect id="Rectangle_69" data-name="Rectangle 69" width="67.589" height="67.588" rx="33.794" transform="translate(16.102 6.534)" fill="#9b2bcc"/>
+        <g id="lock-1" transform="translate(34.746 18.399)">
+          <circle id="Ellipse_10" data-name="Ellipse 10" cx="1.769" cy="1.769" r="1.769" transform="translate(13.265 23.876)" stroke-width="1" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          <line id="Line_29" data-name="Line 29" y2="5.306" transform="translate(15.033 27.413)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_74" data-name="Rectangle 74" width="30.066" height="24.761" transform="translate(0 15.917)" stroke-width="1" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          <path id="Path_95" data-name="Path 95" d="M6.5,10.227a9.727,9.727,0,0,1,19.455,0v6.19H6.5Z" transform="translate(-1.194 -0.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Icon_-_Notifications" data-name="Icon - Notifications" transform="translate(469.733 504.771)">
+        <rect id="Rectangle_72" data-name="Rectangle 72" width="93.632" height="37.825" rx="18.912" transform="translate(0 46.816) rotate(-30)" opacity="0.062" fill="url(#linear-gradient-2)"/>
+        <rect id="Rectangle_71" data-name="Rectangle 71" width="67.589" height="67.588" rx="33.794" transform="translate(16.122 6.201)" fill="#65ccb7"/>
+        <g id="alarm-bell" transform="translate(31.318 19.247)">
+          <path id="Path_96" data-name="Path 96" d="M32.957,28.074V17.526A13.794,13.794,0,0,0,23.965,4.609a4.869,4.869,0,0,0-9.611,0A13.783,13.783,0,0,0,5.369,17.526V28.074A4.869,4.869,0,0,1,.5,32.943H37.826A4.869,4.869,0,0,1,32.957,28.074Z" transform="translate(-0.5 -0.523)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_97" data-name="Path 97" d="M18.737,20.5A4.869,4.869,0,0,1,9,20.5" transform="translate(4.794 11.92)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <text id="RECURRRED_FEATURES_Control_your_finances_today" data-name="RECURRRED FEATURES
+Control your finances today" transform="translate(450.725 50.481)" fill="#969696" font-size="38" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan fill="#000"><tspan x="-227.666" y="0">RECURRRED FEATURES</tspan></tspan><tspan font-size="24" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-147.18" y="40">Control your finances today</tspan></tspan></text>
+      <use id="Dashboard_Screen" data-name="Dashboard Screen" transform="translate(-389.799 147.831)" xlink:href="#image-2"/>
+    </g>
+    <g id="Testimonials" transform="translate(-0.07 2480.441)">
+      <g id="Background-3" data-name="Background" transform="translate(0)">
+        <path id="Path_15" data-name="Path 15" d="M.023,516.985c5.332-.625,11.73-2.141,17.328-3a483.617,483.617,0,0,1,58.65-6,523.456,523.456,0,0,1,93.307,5c53.451,7.417,95.84,26.07,146.626,37,48.119,10.384,101.172,11.826,151.957,8,65.981-4.919,128.631-18.334,193.279-27,67.314-8.979,136.363-15.033,205.276-18,101.437-4.294,206.077-.831,302.582,19,88.907,18.27,169.42,46.845,251.929,73,155.688,49.265,325.511,70.137,498.527,40v-473c0-56.916.133-246.024,0-307H.023v650C.157,515.766-.243,516.282.023,516.985Z" transform="translate(0.07 135.015)" fill="url(#linear-gradient-5)"/>
+        <path id="Path_48" data-name="Path 48" d="M-880.042,374.652c-98.111-39.928-192.4-83.095-299.846-114-116.63-33.547-246.14-48.472-373.111-53-86.269-3.016-172.459-.487-257.786,4-81.955,4.363-163.972,13.346-246.932,13-63.861-.219-129.167-6.668-187.234-24-28.591-8.517-53.939-18.718-80.049-29H-501.5c.038,16.989-.011,34.916,0,53-.009,19.012,0,34.925,0,47v198C-635.228,456.071-762.3,422.5-880.042,374.652Z" transform="translate(2421.07 -171.652)" fill="#fff" opacity="0.027"/>
+        <path id="Path_142" data-name="Path 142" d="M-660.89,622c-102.2-26.155-201.934-54.731-312.065-73-119.54-19.831-249.157-23.294-374.808-19-85.363,2.966-170.893,9.022-254.275,18-80.079,8.666-157.685,22.081-239.415,27-62.908,3.826-128.624,2.384-188.23-8-62.908-10.93-115.415-29.583-181.625-37a801.448,801.448,0,0,0-115.58-5c-24.931.781-48.542,2.877-72.649,6-6.936.859-14.86,2.375-21.466,3v-1.29a1.846,1.846,0,0,0,0-.709V494c10.4-.8,21.134-.5,31.371-1a671.9,671.9,0,0,1,122.184,6c70.008,10.1,124.99,36.1,191.532,51,63.074,14,131.6,15.1,198.137,10,86.52-6.7,169.572-24.3,254.275-36,88.17-12.2,178.817-21,269.135-25,133.081-6,271.448-.9,397.924,26,116.57,24.8,220.426,63.6,328.576,99q34.6,11.338,69.912,21.164Q-610.148,635.013-660.89,622Z" transform="translate(2421.07 118)" fill="#fff" opacity="0.04"/>
+      </g>
+      <text id="Testimonials_why_people_love_RECURRRED" data-name="Testimonials
+why people love RECURRRED" transform="translate(959.826 129)" fill="#fff" font-size="38" font-family="Helvetica"><tspan x="-104.537" y="0">Testimonials</tspan><tspan font-size="24" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-163.368" y="40">why people love RECURRRED</tspan></tspan></text>
+      <g id="Avatars" transform="translate(568.196 215)">
+        <circle id="attractive-beautiful-beauty-415829" cx="87" cy="87" r="87" transform="translate(306)" fill="url(#pattern-2)"/>
+        <circle id="adult-beach-beard-736716" cx="51" cy="51" r="51" transform="translate(530 36)" fill="url(#pattern-3)"/>
+        <circle id="beanie-beautiful-blonde-324658" cx="51" cy="51" r="51" transform="translate(0 36)" fill="url(#pattern-4)"/>
+        <circle id="boy-casual-cool-769772" cx="51" cy="51" r="51" transform="translate(683 36)" fill="url(#pattern-5)"/>
+        <circle id="beard-blur-casual-462680" cx="51" cy="51" r="51" transform="translate(153 36)" fill="url(#pattern-6)"/>
+      </g>
+      <text id="Debbie_Harry" data-name="Debbie Harry" transform="translate(959.825 546.5)" fill="#fff" font-size="20" font-family="Helvetica"><tspan x="-58.911" y="0">Debbie Harry</tspan></text>
+      <text id="RECURRRED_let_me_take_control_of_my_business_and_personal_finances_I_had_no_idea_of_the_amount_of_payments_i_had_coming_out._" data-name="RECURRRED let me take control of my business and personal finances, I had no idea of the amount of payments i had coming out. " transform="translate(224.07 459.5)" fill="#fff" font-size="20" font-family="Helvetica"><tspan x="153.777" y="15">RECURRRED let me take control of my business and personal finances, I had no idea of the amount of payments i had coming out. </tspan></text>
+      <g id="Stars" transform="translate(872.782 410.786)">
+        <path id="rating-star-1" d="M18.266,6.04a1.022,1.022,0,0,1,1.84,0l3.78,7.641,8.471,1.227a1.022,1.022,0,0,1,.564,1.746l-6.133,5.928,1.447,8.381a1.022,1.022,0,0,1-1.48,1.079l-7.572-3.954L11.6,32.053a1.022,1.022,0,0,1-1.48-1.079l1.447-8.381L5.432,16.663A1.022,1.022,0,0,1,6,14.918l8.473-1.227Z" transform="translate(-5.121 -5.463)" fill="#ffca38"/>
+        <path id="rating-star-1-2" data-name="rating-star-1" d="M18.266,6.04a1.022,1.022,0,0,1,1.84,0l3.78,7.641,8.471,1.227a1.022,1.022,0,0,1,.564,1.746l-6.133,5.928,1.447,8.381a1.022,1.022,0,0,1-1.48,1.079l-7.572-3.954L11.6,32.053a1.022,1.022,0,0,1-1.48-1.079l1.447-8.381L5.432,16.663A1.022,1.022,0,0,1,6,14.918l8.473-1.227Z" transform="translate(31.295 -5.463)" fill="#ffca38"/>
+        <path id="rating-star-1-3" data-name="rating-star-1" d="M18.266,6.04a1.022,1.022,0,0,1,1.84,0l3.78,7.641,8.471,1.227a1.022,1.022,0,0,1,.564,1.746l-6.133,5.928,1.447,8.381a1.022,1.022,0,0,1-1.48,1.079l-7.572-3.954L11.6,32.053a1.022,1.022,0,0,1-1.48-1.079l1.447-8.381L5.432,16.663A1.022,1.022,0,0,1,6,14.918l8.473-1.227Z" transform="translate(67.71 -5.463)" fill="#ffca38"/>
+        <path id="rating-star-1-4" data-name="rating-star-1" d="M18.266,6.04a1.022,1.022,0,0,1,1.84,0l3.78,7.641,8.471,1.227a1.022,1.022,0,0,1,.564,1.746l-6.133,5.928,1.447,8.381a1.022,1.022,0,0,1-1.48,1.079l-7.572-3.954L11.6,32.053a1.022,1.022,0,0,1-1.48-1.079l1.447-8.381L5.432,16.663A1.022,1.022,0,0,1,6,14.918l8.473-1.227Z" transform="translate(104.126 -5.463)" fill="#ffca38"/>
+        <path id="rating-star-1-5" data-name="rating-star-1" d="M18.266,6.04a1.022,1.022,0,0,1,1.84,0l3.78,7.641,8.471,1.227a1.022,1.022,0,0,1,.564,1.746l-6.133,5.928,1.447,8.381a1.022,1.022,0,0,1-1.48,1.079l-7.572-3.954L11.6,32.053a1.022,1.022,0,0,1-1.48-1.079l1.447-8.381L5.432,16.663A1.022,1.022,0,0,1,6,14.918l8.473-1.227Z" transform="translate(140.542 -5.463)" fill="#ffca38"/>
+      </g>
+    </g>
+    <g id="Features" transform="translate(94.664 1978.867)">
+      <text id="Awesome_Features_Track_._Save_._Invest_._Give" data-name="Awesome Features
+Track . Save . Invest . Give" transform="translate(864.352 29)" fill="#969696" font-size="38" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan fill="#000"><tspan x="-172.846" y="0">Awesome Features</tspan></tspan><tspan font-size="24" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-142.296" y="40">Track . Save . Invest . Give</tspan></tspan></text>
+      <g id="Design" transform="translate(0 138)">
+        <text id="Track_Your_Finances" data-name="Track Your Finances" transform="translate(0 196.5)" font-size="22" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="29.4" y="17">Track Your Finances</tspan></text>
+        <text id="Quickly_and_easily_have_full_oversight_of_all_transactions_and_recurring_payments" data-name="Quickly and easily have full oversight of all transactions and recurring payments" transform="translate(0 242.5)" fill="#969696" font-size="16" font-family="Helvetica"><tspan x="4.824" y="12">Quickly and easily have full oversight </tspan><tspan x="24.387" y="36">of all transactions and recurring </tspan><tspan x="101.316" y="60">payments</tspan></text>
+        <line id="Line_8" data-name="Line 8" x2="65" transform="translate(103.5 175)" fill="none" stroke="#65ccb7" stroke-width="2"/>
+        <rect id="Rectangle_66-2" data-name="Rectangle 66" width="151" height="61" rx="30.5" transform="translate(55 75.5) rotate(-30)" opacity="0.062" fill="url(#linear-gradient-2)"/>
+        <rect id="Rectangle_58-2" data-name="Rectangle 58" width="109" height="109" rx="54.5" transform="translate(81 10)" fill="url(#linear-gradient-7)"/>
+      </g>
+      <g id="Speed" transform="translate(102 139)">
+        <g id="Group_27" data-name="Group 27" transform="translate(0 11)">
+          <rect id="Rectangle_63" data-name="Rectangle 63" width="109" height="109" rx="54.5" transform="translate(343)" fill="url(#linear-gradient-7)"/>
+          <g id="gauge-dashboard-1" transform="translate(0 19)">
+            <circle id="Ellipse_9" data-name="Ellipse 9" cx="32.5" cy="32.5" r="32.5" stroke-width="2" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+            <path id="Path_26" data-name="Path 26" d="M19.648,28.256a5.652,5.652,0,1,1-7.993-7.993C13.863,18.057,34.638,5.286,34.638,5.286S21.87,26.049,19.648,28.256Z" transform="translate(16.848 8.24)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line id="Line_22" data-name="Line 22" x2="4.239" transform="translate(8.478 32.5)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line id="Line_23" data-name="Line 23" x2="2.996" y2="2.996" transform="translate(15.515 15.515)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line id="Line_24" data-name="Line 24" y2="4.239" transform="translate(32.5 8.478)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line id="Line_25" data-name="Line 25" x1="4.239" transform="translate(52.283 32.5)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_27" data-name="Path 27" d="M52.162,24.353A41.566,41.566,0,0,0,27.765,17a41.566,41.566,0,0,0-24.4,7.348" transform="translate(4.735 29.626)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <text id="Save" transform="translate(259 195.5)" font-size="22" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="110.31" y="17">Save</tspan></text>
+        <text id="Put_your_savings_to_work_by_creating_a_saving_plan." data-name="Put your savings to work by creating a saving plan." transform="translate(259 241.5)" fill="#969696" font-size="16" font-family="Helvetica"><tspan x="0.824" y="12">Put your savings to work by creating a </tspan><tspan x="93.305" y="36">saving plan.</tspan></text>
+        <line id="Line_8-2" data-name="Line 8" x2="65" transform="translate(362.5 174)" fill="none" stroke="#65ccb7" stroke-width="2"/>
+        <rect id="Rectangle_67" data-name="Rectangle 67" width="151" height="61" rx="30.5" transform="translate(314 75.5) rotate(-30)" opacity="0.062" fill="url(#linear-gradient-9)"/>
+      </g>
+      <g id="Support" transform="translate(1456.704 138)">
+        <text id="Support-2" data-name="Support" transform="translate(0 196.5)" font-size="22" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="93.842" y="17">Support</tspan></text>
+        <text id="Our_team_are_here_to_help_no_matter_what_your_question_is_we_have_you_covered" data-name="Our team are here to help no matter what your question is we have you covered" transform="translate(0 242.5)" fill="#969696" font-size="16" font-family="Helvetica"><tspan x="8.379" y="12">Our team are here to help no matter </tspan><tspan x="13.707" y="36">what your question is we have you </tspan><tspan x="107.539" y="60">covered</tspan></text>
+        <line id="Line_8-3" data-name="Line 8" x2="65" transform="translate(103.5 175)" fill="none" stroke="#65ccb7" stroke-width="2"/>
+        <g id="Icon_-_Support" data-name="Icon - Support" transform="translate(55)">
+          <rect id="Rectangle_68" data-name="Rectangle 68" width="151" height="61" rx="30.5" transform="translate(0 75.5) rotate(-30)" opacity="0.062" fill="url(#linear-gradient-2)"/>
+          <path id="Path_51" data-name="Path 51" d="M54.5,0A54.5,54.5,0,1,1,0,54.5,54.5,54.5,0,0,1,54.5,0Z" transform="translate(26 10)" fill="url(#linear-gradient-7)"/>
+          <g id="headphones-customer-support-human" transform="translate(48 33)">
+            <path id="Path_28" data-name="Path 28" d="M16,30.937h2.825c5.464,0,9.889-3.015,9.889-8.476V16.33" transform="translate(27.801 28.394)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_29" data-name="Path 29" d="M19.5,8.5a11.3,11.3,0,0,1,3.769,21.958A2.825,2.825,0,0,1,19.5,27.8Z" transform="translate(34.19 14.102)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_30" data-name="Path 30" d="M11.807,8.5A11.3,11.3,0,0,0,8.038,30.458,2.825,2.825,0,0,0,11.807,27.8Z" transform="translate(-0.497 14.102)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_31" data-name="Path 31" d="M46.879,27.34V21.69a21.19,21.19,0,1,0-42.379,0V27.34" transform="translate(6.81 -0.5)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_32" data-name="Path 32" d="M13.325,20.5h11.3a1.413,1.413,0,0,1,1.413,1.413v2.825a1.413,1.413,0,0,1-1.413,1.413h-11.3A2.825,2.825,0,0,1,10.5,23.325h0A2.825,2.825,0,0,1,13.325,20.5Z" transform="translate(17.762 36.006)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_33" data-name="Path 33" d="M27,14.665a12.883,12.883,0,0,1-18.223,0" transform="translate(14.613 25.355)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_34" data-name="Path 34" d="M9.206,9.661a.706.706,0,1,1-.706.706.706.706,0,0,1,.706-.706" transform="translate(14.111 16.222)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_35" data-name="Path 35" d="M15.706,9.661a.706.706,0,1,1-.706.706.706.706,0,0,1,.706-.706" transform="translate(25.976 16.222)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Product" transform="translate(0 1283.244)">
+      <g id="Background-4" data-name="Background">
+        <rect id="Rectangle_18" data-name="Rectangle 18" width="665.931" height="677.417" transform="translate(0 0.04)" fill="url(#linear-gradient-12)"/>
+        <path id="Path_44" data-name="Path 44" d="M-1725.64,298.823c-56.951-33.608-124.262-56.521-191.175-72.359-45.472-10.722-91.608-18.292-137.732-24.051-44.309-5.5-88.958-7.415-133.078-16.07-32.273-6.3-64.47-16.381-91.836-32.071h664.423v223.74C-1650.114,350.221-1685.177,322.7-1725.64,298.823Z" transform="translate(2280.691 -154.273)" fill="#fff" opacity="0.04"/>
+      </g>
+      <g id="Image" transform="translate(481.931 0.04)">
+        <rect id="Rectangle_57" data-name="Rectangle 57" width="1253.569" height="677.417" transform="translate(184)" fill="url(#linear-gradient-12)"/>
+        <rect id="blur-businesswoman-close-up-407237" width="1253.569" height="677.417" transform="translate(184)" opacity="0.8" fill="url(#pattern-7)"/>
+      </g>
+      <g id="Download_Button" data-name="Download Button" transform="translate(-103 -11.334)">
+        <g transform="matrix(1, 0, 0, 1, 103, -1271.91)" filter="url(#Rectangle_1)">
+          <rect id="Rectangle_1-3" data-name="Rectangle 1" width="272" height="56" rx="28" transform="translate(120 1761.91)" fill="#ffca38"/>
+        </g>
+        <text id="SIGN_UP" data-name="SIGN UP" transform="translate(359 525)" fill="#ad7200" font-size="16" font-family="Helvetica"><tspan x="-32.895" y="0">SIGN UP</tspan></text>
+      </g>
+      <g id="Text" transform="translate(120 150.047)">
+        <text id="Making_your_finances_easy" data-name="Making your finances easy" transform="translate(0 60.249)" fill="#fff" font-size="38" font-family="Helvetica"><tspan x="0" y="29">Making your finances easy</tspan></text>
+        <text id="Take_your_financial_freedom_back_and_control_where_you_spend_your_hard_earned" data-name="Take your financial freedom back and control where you spend your hard earned" transform="translate(0 193.729)" fill="#fff" font-size="18" font-family="Helvetica"><tspan x="0" y="14">Take your financial freedom back and control where you </tspan><tspan x="0" y="44">spend your hard earned</tspan></text>
+        <line id="Line_2" data-name="Line 2" x2="107" transform="translate(0 24)" fill="none" stroke="#65ccb7" stroke-width="2"/>
+        <text id="RECURRRED-2" data-name="RECURRRED" transform="translate(0 11)" fill="#65ccb7" font-size="14" font-family="Helvetica" letter-spacing="0.075em"><tspan x="0" y="0">RECURRRED</tspan></text>
+      </g>
+    </g>
+    <g id="Welcome" transform="translate(95.521 920.246)">
+      <text id="Welcome_To_RECURRED_Ever_had_payments_come_out_and_not_know_what_there_for_" data-name="Welcome To RECURRED
+Ever had payments come out and not know what there for? " transform="translate(864.352 29)" fill="#969696" font-size="38" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan fill="#000"><tspan x="-223.12" y="0">Welcome To RECURRED</tspan></tspan><tspan font-size="26" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-345.137" y="40">Ever had payments come out and not know what there for? </tspan></tspan></text>
+      <text id="Take_back_control_of_your_finances._Track_subscriptions_and_recurring_payments_RECURRRED_makes_it_easy_to_control_your_spending_manage_subscriptions_lower_your_bills_and_stay_on_top_of_your_financial_life." data-name="Take back control of your finances. Track subscriptions and recurring payments RECURRRED makes it easy to control your spending, manage subscriptions, lower your bills, and stay on top of your financial life." transform="translate(1 126)" fill="#6e6e6e" font-size="20" font-family="Helvetica"><tspan x="14.003" y="15">Take back control of your finances. Track subscriptions and recurring payments RECURRRED makes it easy to control your spending, manage subscriptions, lower your bills, and stay on top of </tspan><tspan x="786.591" y="45">your financial life.</tspan></text>
+    </g>
+    <g id="Hero" transform="translate(0 -0.015)">
+      <g id="Background-5" data-name="Background">
+        <path id="Path_36" data-name="Path 36" d="M.533,666.9c5.332-.8,10.8-2.7,16.394-3.8a393.41,393.41,0,0,1,59.58-7.5,410.057,410.057,0,0,1,93.3,5.9c53.448,9.5,95.434,34.2,146.217,48.2,48.117,13.3,100.9,14.7,151.681,9.8,65.977-6.3,129.289-22.9,193.934-34,67.31-11.5,135.554-20.3,204.463-24.1,101.432-5.5,207-.6,303.5,24.8,88.9,23.4,168.209,59.9,250.714,93.4,155.68,63.1,326.155,90.1,499.163,51.5V225.6c0-72.9.079-164.515-.055-242.615H.079L0,664A19.45,19.45,0,0,0,.533,666.9Z" transform="translate(0 17.015)" fill="url(#linear-gradient-5)"/>
+        <path id="Path_141" data-name="Path 141" d="M-709.378,299.57c-112.235-57.134-219.251-118.191-342.758-161.621-134.059-47.141-285.337-66.027-432.753-69.6-100.164-2.333-200.377,2.549-299.79,11.392-95.486,8.573-190.161,25.15-286.6,26.717-74.24,1.278-150.089-6.665-216.805-31.078-17.579-6.418-34.23-13.726-50.495-21.386H-474.572c.025,14.458.042,29.383.054,44.563V393.109C-556.033,369.446-634.5,337.625-709.378,299.57Z" transform="translate(2394 -54)" fill="#fff" opacity="0.027"/>
+        <path id="Path_140" data-name="Path 140" d="M-707.056,299.57c-111.126-57.134-217.083-118.191-339.369-161.621-132.733-47.141-282.515-66.027-428.474-69.6-99.174-2.333-198.4,2.549-296.826,11.392-94.542,8.573-188.28,25.15-283.766,26.717C-2129,107.742-2204.1,99.8-2270.152,75.386c-44.281-16.329-82.634-38.423-123.79-57.389l0-17H-474.573c.026,15.364.044,31.255.056,47.42q0,8.312,0,16.362V393.109C-555.227,369.446-632.919,337.625-707.056,299.57Z" transform="translate(2394 -1)" fill="#fff" opacity="0.027"/>
+        <path id="Path_16" data-name="Path 16" d="M1919.4,196.7v12.8c-173.143,38.6-343.62,11.6-499.169-51.5-82.506-33.4-161.813-70-250.717-93.4-96.5-25.3-202.067-30.3-303.633-24.8C797.1,43.6,728.859,52.5,661.548,63.9c-64.645,11-127.958,27.6-193.936,34-50.783,4.9-103.566,3.5-151.683-9.8-50.783-14-92.769-38.7-146.218-48.2a420.782,420.782,0,0,0-93.3-5.9,393.419,393.419,0,0,0-59.58,7.5c-5.465,1.1-11.063,3-16.395,3.8A22.131,22.131,0,0,0-.1,42.4V2.4C8.3,1.6,16.561,1,24.825.5a440.464,440.464,0,0,1,98.767,6.3C180.107,16.9,224.626,43,278.341,57.9c50.917,14,106.765,15.5,160.48,10.4,69.844-6.7,136.888-24.3,205.266-36C715.264,20.1,787.507,10.8,860.416,6.8c107.431-6,219.261-.7,321.361,26.2,94.1,24.8,178.074,63.4,265.379,98.8C1594.974,191.8,1755.587,220.9,1919.4,196.7Z" transform="translate(0.1 638.034)" fill="#fff" opacity="0.08"/>
+      </g>
+      <g id="Download_Button-2" data-name="Download Button" transform="translate(-48.74 0.015)">
+        <g transform="matrix(1, 0, 0, 1, 48.74, 0)" filter="url(#Rectangle_1-2)">
+          <rect id="Rectangle_1-4" data-name="Rectangle 1" width="272" height="56" rx="28" transform="translate(174.26 490)" fill="#ffca38"/>
+        </g>
+        <text id="SIGN_UP-2" data-name="SIGN UP" transform="translate(359 525)" fill="#ad7200" font-size="16" font-family="Helvetica"><tspan x="-32.895" y="0">SIGN UP</tspan></text>
+      </g>
+      <g id="Text-2" data-name="Text" transform="translate(163.935 208.015)">
+        <text id="Take_control_of_your_recurring_payments_and_subscriptions." data-name="Take control of your
+recurring payments
+and subscriptions." transform="translate(1 82)" fill="#fff" font-size="53" font-family="Helvetica"><tspan x="0" y="0">Take control of your</tspan><tspan x="0" y="70">recurring payments</tspan><tspan x="0" y="140">and subscriptions.</tspan></text>
+        <line id="Line_7" data-name="Line 7" x2="297" fill="none" stroke="#65ccb7" stroke-width="2"/>
+      </g>
+      <g id="Navigation" transform="translate(174.261 22.015)">
+        <text id="HOME" transform="translate(496.995 22)" fill="#fff" font-size="13" font-family="Helvetica"><tspan x="0" y="0">HOME</tspan></text>
+        <text id="FEATURES-2" data-name="FEATURES" transform="translate(613.353 23)" fill="#fff" font-size="13" font-family="Helvetica"><tspan x="0" y="0">FEATURES</tspan></text>
+        <text id="PRIVACY" transform="translate(758.399 23)" fill="#fff" font-size="13" font-family="Helvetica"><tspan x="0" y="0">PRIVACY</tspan></text>
+        <text id="SECURITY" transform="translate(891.846 23)" fill="#fff" font-size="13" font-family="Helvetica"><tspan x="0" y="0">SECURITY</tspan></text>
+        <g id="Group_4" data-name="Group 4" transform="translate(1320.749)">
+          <g id="Rectangle_15" data-name="Rectangle 15" fill="none" stroke="#fff" stroke-width="1" opacity="0.5">
+            <rect width="132" height="36" rx="18" stroke="none"/>
+            <rect x="0.5" y="0.5" width="131" height="35" rx="17.5" fill="none"/>
+          </g>
+          <text id="LOGIN" transform="translate(66 23)" fill="#fff" font-size="13" font-family="Helvetica"><tspan x="-20.227" y="0">LOGIN</tspan></text>
+        </g>
+        <g id="Group_54" data-name="Group 54" transform="translate(0 5)">
+          <text id="RECRRRED" transform="translate(125.144 22)" fill="#fff" stroke="#fff" stroke-width="1" font-size="22" font-family="CenturyGothic-Italic, Century Gothic" font-style="italic" letter-spacing="0.1em"><tspan x="-63.328" y="0">RECRRRED</tspan></text>
+          <path id="Path_24-2" data-name="Path 24" d="M346.6,323.87a6.7,6.7,0,0,1,3.7-.4,9.482,9.482,0,0,1,3.6,1.514c1.046.7,1.936,1.457,2.727,2.093a11.3,11.3,0,0,0,2.152,1.438,5.172,5.172,0,0,0,.973.365,5.592,5.592,0,0,0,1.033.2c.092.008.184.016.276.029l.29.011c.194.017.388,0,.582,0s.373-.031.557-.048c.174-.035.355-.051.518-.1a4.806,4.806,0,0,0,.963-.34,5.173,5.173,0,0,0,.95-.564,19.555,19.555,0,0,0,2.1-1.9,21.647,21.647,0,0,1,2.785-2.467,10.8,10.8,0,0,1,1.843-1.068,8.983,8.983,0,0,1,2.073-.674,10.646,10.646,0,0,1,1.057-.161c.348-.025.7-.051,1.038-.049s.678,0,1.014.041l.5.051.509.084a9.381,9.381,0,0,1,3.829,1.563,12.5,12.5,0,0,1,2.693,2.637c.72.909,1.32,1.8,1.968,2.586a10.831,10.831,0,0,0,1.017,1.1,7.156,7.156,0,0,0,1.17.916,8.615,8.615,0,0,0,2.927,1.132h0a.169.169,0,0,1,0,.332,8.261,8.261,0,0,1-1.722.152,7.533,7.533,0,0,1-.89-.058,8.32,8.32,0,0,1-.888-.178,9.648,9.648,0,0,1-3.26-1.615c-.966-.7-1.814-1.469-2.622-2.134a13.993,13.993,0,0,0-1.2-.9,6.978,6.978,0,0,0-1.165-.655,5.705,5.705,0,0,0-1.163-.375c-.191-.053-.4-.065-.592-.1-.207-.007-.4-.041-.612-.031a7.112,7.112,0,0,0-2.415.359,5.664,5.664,0,0,0-1.938,1.164,22.481,22.481,0,0,0-1.968,2.079,19.774,19.774,0,0,1-2.65,2.643,10.312,10.312,0,0,1-3.939,2c-.365.105-.729.161-1.094.229-.361.047-.726.094-1.081.113s-.709.036-1.063.019l-.532-.017-.543-.057a9.59,9.59,0,0,1-4.191-1.506,12.058,12.058,0,0,1-2.9-2.75c-.737-.938-1.3-1.841-1.863-2.627a10.676,10.676,0,0,0-1.844-2.123A10.531,10.531,0,0,0,346.6,324.2l0,0a.18.18,0,0,1,0-.331Z" transform="translate(-346.485 -312.236)" fill="#fff"/>
+        </g>
+        <text id="CONTACT" transform="translate(1034.966 23)" fill="#fff" font-size="13" font-family="Helvetica"><tspan x="0" y="0">CONTACT</tspan></text>
+      </g>
+    </g>
+    <g id="Support-3" data-name="Support" transform="translate(1214.368 2116.867)">
+      <text id="Give" transform="translate(0 196.5)" font-size="22" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="112.152" y="17">Give</tspan></text>
+      <text id="Give_that_little_extra_to_a_charity_of_your_choice." data-name="Give that little extra to a charity of your choice." transform="translate(0 242.5)" fill="#969696" font-size="16" font-family="Helvetica"><tspan x="17.281" y="12">Give that little extra to a charity of </tspan><tspan x="92.867" y="36">your choice.</tspan></text>
+      <line id="Line_8-4" data-name="Line 8" x2="65" transform="translate(103.5 175)" fill="none" stroke="#65ccb7" stroke-width="2"/>
+      <g id="Icon_-_Support-2" data-name="Icon - Support" transform="translate(55)">
+        <rect id="Rectangle_68-2" data-name="Rectangle 68" width="151" height="61" rx="30.5" transform="translate(0 75.5) rotate(-30)" opacity="0.062" fill="url(#linear-gradient-2)"/>
+        <path id="Path_51-2" data-name="Path 51" d="M54.5,0A54.5,54.5,0,1,1,0,54.5,54.5,54.5,0,0,1,54.5,0Z" transform="translate(26 10)" fill="url(#linear-gradient-7)"/>
+      </g>
+    </g>
+    <g id="Support-4" data-name="Support" transform="translate(849.368 2116.867)">
+      <text id="Invest" transform="translate(0 196.5)" font-size="22" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="104.208" y="17">Invest</tspan></text>
+      <text id="Micro_investing_is_a_great_way_to_help_kick_start_your_financial_freedom._" data-name="Micro investing is a great way to help kick start your financial freedom. " transform="translate(0 242.5)" fill="#969696" font-size="16" font-family="Helvetica"><tspan x="4.828" y="12">Micro investing is a great way to help </tspan><tspan x="21.289" y="36">kick start your financial freedom. </tspan></text>
+      <line id="Line_8-5" data-name="Line 8" x2="65" transform="translate(103.5 175)" fill="none" stroke="#65ccb7" stroke-width="2"/>
+      <g id="Icon_-_Support-3" data-name="Icon - Support" transform="translate(55)">
+        <rect id="Rectangle_68-3" data-name="Rectangle 68" width="151" height="61" rx="30.5" transform="translate(0 75.5) rotate(-30)" opacity="0.062" fill="url(#linear-gradient-2)"/>
+        <path id="Path_51-3" data-name="Path 51" d="M54.5,0A54.5,54.5,0,1,1,0,54.5,54.5,54.5,0,0,1,54.5,0Z" transform="translate(26 10)" fill="url(#linear-gradient-7)"/>
+      </g>
+    </g>
+    <g id="Icon_exchange_deactive" data-name="Icon/exchange/deactive" transform="translate(558.5 2189.5)">
+      <rect id="Rectangle" width="13.519" height="13.519" transform="translate(3 9.05)" fill="none"/>
+      <path id="Path" d="M17.736,0,10.077,10.7,6.046,5.069,0,13.518" transform="translate(3 9.051)" fill="none" stroke="#9b9b9b" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-2" data-name="Path" d="M0,0H6V6" transform="translate(16.053 7.419)" fill="none" stroke="#9b9b9b" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="synchronize-arrows-1-2" data-name="synchronize-arrows-1" transform="translate(1313.783 2150.331)">
+      <path id="Path_91-2" data-name="Path 91" d="M.714,10.353,9.68,23.7,19.991,11.357" transform="translate(-0.714 11.704)" fill="none" stroke="rgba(196,240,231,0.82)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_92-2" data-name="Path 92" d="M36.571,23.861,27.611,10.5,17.294,22.854" transform="translate(36.047 12.037)" fill="none" stroke="rgba(196,240,231,0.82)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_93-2" data-name="Path 93" d="M52.482,10.54a27.739,27.739,0,0,1-20.944,31.3A27.323,27.323,0,0,1,6.023,34.685" transform="translate(11.057 12.119)" fill="none" stroke="rgba(196,240,231,0.82)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_94-2" data-name="Path 94" d="M4.088,38.828A28.482,28.482,0,0,1,25.122,4.234a27.323,27.323,0,0,1,26.78,8.5" transform="translate(4.891 -3.497)" fill="none" stroke="rgba(196,240,231,0.82)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="lock-1-2" data-name="lock-1" transform="translate(965.277 2150.33)">
+      <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="1.769" cy="1.769" r="1.769" transform="translate(18.442 32.882)" stroke-width="1" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <line id="Line_29-2" data-name="Line 29" y2="5.306" transform="translate(20.21 38.27)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_74-2" data-name="Rectangle 74" width="40.42" height="24.761" transform="translate(0 29.926)" stroke-width="1" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path id="Path_95-2" data-name="Path 95" d="M6.5,18.788C6.5,8.688,13.173.5,21.4.5s14.9,8.188,14.9,18.288V30.426H6.5Z" transform="translate(-1.194 -0.5)" fill="none" stroke="#c4f0e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <use id="Dashboard_Screen-2" data-name="Dashboard Screen" transform="translate(653 91) scale(1.398 1.398)" xlink:href="#image-2"/>
+  </g>
+</svg>
