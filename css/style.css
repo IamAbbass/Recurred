@@ -1,0 +1,128 @@
+h1, h2, h3, h4, h5, h6, p, a{
+  font-family: 'Roboto', sans-serif !important;
+}
+
+.bg, .bg-plain{
+  background-position: 0 -90px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg{
+  background-image: url(../img/bg.png);
+}
+.min-height{  
+  min-height: 520px;
+}
+.bg-plain{
+  background-image: url(../img/bg-plain.png);
+}
+
+
+.navbar-brand {
+  color: #fff !important;
+  text-transform: uppercase;
+  font-style: italic;
+}
+.navbar-brand img{
+  float: left;
+  width: 40px;
+  margin-right: 5px;
+}
+.navbar-nav{
+
+}
+.navbar-nav a{
+  color: #eee !important;
+  text-transform: uppercase;
+}
+.nav>li>a:focus, .nav>li>a:hover{
+  color: #fff !important;
+  background: transparent !important;
+}
+.bordered-circle{
+  border: 1px solid rgb(255,255,255,0.3);
+  padding: 5px 20px !important;
+  margin: 5px;
+  border-radius: 20px;
+}
+.text-white{
+  color:#fff !important;
+}
+.theme-color{
+  color: #65ccb7;
+  border-bottom: 2px solid #65ccb7;
+  width: fit-content;
+}
+.no-margin{
+    margin: 0 !important;
+}
+.theme-line{
+  background: #65ccb7;
+  height: 2px;
+  width: 200px;
+}
+.theme-line-small{
+  background: #65ccb7;
+  height: 2px;
+  width: 75px;
+  display: block;
+  margin: 0 auto;
+}
+.jumbotron{
+  background: transparent !important;
+  padding: 60px 0 !important;
+}
+.jumbotron h1{
+  font-size: 46px;
+}
+.btn-gold{
+  background: #ffca38 !important;
+  color: #ad7200 !important;
+  border-radius: 25px;
+  padding: 8px 72px;
+  box-shadow: 0 0 10px #666;
+  text-transform: uppercase;
+  margin:20px 0;
+}
+.img-100{
+  width: 110%;
+}
+.no-padding{
+  padding: 0 !important;
+}
+.bold{
+    font-weight: bold !important;
+}
+.dull{
+  opacity:0.5;
+  font-size: 18px;
+}
+.section{
+  padding: 70px 0;
+}
+.small-jumbo{
+  padding: 60px 0;
+}
+.small-jumbo p.desc{
+  padding: 30px 0;
+}
+.col_20_percent{
+  float: left;
+  width: 20%;
+  padding:5px;
+}
+.col_20_percent h1{
+  margin: 10px 0;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+.col_20_percent p{
+  text-align: center;
+  opacity: 0.5;
+}
+.col_20_percent img{
+  width: 130px;
+  display: block;
+  margin: 0 auto 36px;
+}
