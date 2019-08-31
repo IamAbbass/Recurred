@@ -2,8 +2,6 @@
   require("dashboard/pages/title.php");
 ?>
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,35 +17,31 @@
 </head>
 <body>
 
-  <div class="container-fluid min-height bg">
-
-    <nav class="navbar">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#"><img src="img/wave.png"> <?php echo $title; ?></a>
-        </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">Features</a></li>
-            <li><a href="#">Privacy</a></li>
-            <li><a href="#">Security</a></li>
-            <li><a href="#">Contact</a></li>
-          </ul>
-          <ul class="nav navbar-nav navbar-right">
-            <li><a class="btn bordered-circle" href="#">Login</a></li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-
+  <div class="container-fluid bg">
     <div class="container">
-      <div class="row">
+      <nav class="navbar">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#"><img src="img/wave.png"> <?php echo $title; ?></a>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#">Features</a></li>
+              <li><a href="#">Privacy</a></li>
+              <li><a href="#">Security</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a class="btn bordered-circle" href="#">Login</a></li>
+            </ul>
+          </div>
+      </nav>
+      <div class="row min-height">
           <div class="col-md-5">
             <div class="jumbotron">
               <div class="theme-line"></div>
@@ -62,7 +56,7 @@
     </div>
   </div>
 
-  <div class="container section">
+  <div class="container section-less-top">
     <div class="row">
         <div class="col-md-12">
             <h1 class="text-center bold">Welcome to RECURRED</h1>
@@ -143,8 +137,8 @@
     <div class="container section">
       <div class="row">
           <div class="col-md-12">
-              <h1 class="text-center bold">Testimonials</h1>
-              <p class="text-center dull">why people love RECURRED</p>
+              <h1 class="text-white text-center bold">Testimonials</h1>
+              <p class="text-white text-center">why people love RECURRED</p>
           </div>
         </div>
     </div>
