@@ -270,3 +270,9 @@ footer .social{
 .pricing_box h6 strong{
   font-size: 48px;
 }
+.girl-image-container{
+  overflow: hidden;
+}
+.girl-image-container img{
+  height: fit-content;
+}

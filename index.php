@@ -81,8 +81,8 @@
                 <button class="btn btn-gold feature_coming_soon">Sign up</button>
               </div>
             </div>
-            <div class="col-md-7 no-padding">
-              <img class="img-100" src="img/girl-image.jpg" alt="" />
+            <div class="col-md-7 no-padding girl-image-container">
+              <img src="img/girl-image.jpg" alt="" />
             </div>
           </div>
       </div>
