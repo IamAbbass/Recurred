@@ -70,21 +70,23 @@
     </div>
 
     <!-- Home Details -->
-    <div class="container-fluid bg-plain">
-      <div class="container">
-        <div class="">
-            <div class="col-md-5">
-              <div class="small-jumbo">
-                <p class="theme-color no-margin">RECURRED</p>
-                <h1 class="text-white">Making your finances easy</h1>
-                <p class="desc text-white">Take your financial freedom back and control where you spend your hard earned.</p>
-                <button class="btn btn-gold feature_coming_soon">Sign up</button>
+    <div class="container-fluid bg-plain no-padding-right hidden-xs">
+      <div class="bg-girl">
+        <div class="container">
+          <div class="">
+              <div class="col-md-5">
+                <div class="small-jumbo">
+                  <p class="theme-color no-margin">RECURRED</p>
+                  <h1 class="text-white">Making your finances easy</h1>
+                  <p class="desc text-white">Take your financial freedom back and control where you spend your hard earned.</p>
+                  <button class="btn btn-gold feature_coming_soon">Sign up</button>
+                </div>
+              </div>
+              <div class="col-md-7 no-padding girl-image-container">
+                &nbsp;
               </div>
             </div>
-            <div class="col-md-7 no-padding girl-image-container">
-              <img src="img/girl-image.jpg" alt="" />
-            </div>
-          </div>
+        </div>
       </div>
     </div>
 

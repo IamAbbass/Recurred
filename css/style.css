@@ -19,7 +19,6 @@ p{
   background-repeat: no-repeat;
 }
 
-
 .bg{
   background-image: url(../img/bg.png);
   background-position: center;
@@ -39,6 +38,13 @@ p{
   background-image: url(../img/bg-plain.png);
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.bg-girl{
+  background-image: url(../img/girl-image.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
 .min-height{
@@ -133,13 +139,13 @@ p{
   font-size: 18px;
 }
 .section-less-top{
-  padding: 10px 20px 90px;
+  padding: 10px 20px 20px;
 }
 .section-less-bottom{
   padding: 90px 20px 0;
 }
 .section{
-  padding: 90px 20px;
+  padding: 90px 20px 90px 20px;
 }
 .small-jumbo{
   padding: 35px 0;
@@ -270,9 +276,6 @@ footer .social{
 .pricing_box h6 strong{
   font-size: 48px;
 }
-.girl-image-container{
-  overflow: hidden;
-}
-.girl-image-container img{
-  height: fit-content;
+.no-padding-right{
+  padding-right: 0;
 }
