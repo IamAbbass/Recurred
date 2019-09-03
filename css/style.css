@@ -82,6 +82,7 @@ p{
 }
 .text-white{
   color:#fff !important;
+  text-shadow: 0 0 2px #333;
 }
 .theme-color{
   color: #65ccb7;
