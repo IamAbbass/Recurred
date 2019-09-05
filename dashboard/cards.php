@@ -30,46 +30,66 @@
 .main{
     width: 100%;
     height: 100%;
-    margin-left: 15px;
+
 }
 
-/*.col-sm-4 {
+.col-sm-4 {
     border: 1px solid;
 }
 
-.col-sm-8 {
+
+.col-sm-4 {
     border: 1px solid;
 }
 
-.col-sm-7 {
-    border: 1px solid;
-}
 
-.col-sm-5 {
-    border: 1px solid;
-}
-
-.col-sm-6 {
-    border: 1px solid;
-}*/
 #s_f{
   margin-top:10px;
 }
-#chart
-{
-   display: block;
-   width: 150px;
-   height: 180px;
-   margin-top: 50px;
+.fas{
+  margin-left: 5px;
 }
-img.img {
-    margin-top: 10px;
+.row{
+  margin-left: 10px;
 }
-img.forecast {
-    width: 91%;
+label{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  padding-top: 10px;
 }
-.col-sm-7{
-  max-width: 50%;
+#security{
+  margin-left: 15px;
+}
+#payment{
+  margin-left: 15px;
+}
+#notification{
+  margin-left: 15px;
+}
+#cancel{
+  margin-left: 250px;
+  margin-top: 0px;
+}
+.update{
+  float: right;
+  margin-right: 25px;
+  margin-top: 10px;
+  border-radius: 20px;
+
+}
+#nav{
+
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    height: 50px;
+}
+.update{
+  margin-top: 12px;
+}
+ul{
+  margin-bottom: 0px;
 }
 
 </style>
@@ -96,37 +116,41 @@ img.forecast {
 
         <!-- Begin Page Content -->
         <div class="main">
+
+          <div class="Navbar" id="nav">
+
+
+      		<ul>
+      		<label id="link"> Link Accounts</label>
+          <label id="security"> Security</label>
+          <label id="payment"> Payment</label>
+          <label id="notification"> Notification</label>
+          <label id="cancel"> Cancel</label>
+          <button type="button" class="update">Update Setting</button>
+      		</ul>
+
+      		</div>
+
+
+
+        <label>Cards</label><i class="fas fa-plus-circle"></i>
         <div class="row">
         <div class="col-sm-4">
-          <img src="img/spend_by_category.png">
+          <h3>Column 1</h3>
+      </div>
+
+        <div class="col-sm-4">
+        <h3>Column 1</h3>
+      </div>
+      </div>
+
+        <label>Banks Accounts</label>
+        <div class="row" id="s_f">
+        <div class="col-sm-4">
+        <h3>Column 1</h3>
 
     </div>
 
-      <div class="col-sm-8">
-        <img src="img/payment_forecast.png" class="forecast">
-        <div class="row">
-        <div class="col-sm-6">
-        <img src="img/expenses.png" class="img">
-      </div>
-          <div class="col-sm-6">
-        <img src="img/invest_saving.png" class="img">
-      </div>
-
-      </div>
-      </div>
-      </div>
-
-      <div class="row" id="s_f">
-      <div class="col-sm-7">
-      <img src="img/saving_over_time.png">
-
-    </div>
-
-      <div class="col-sm-5">
-    <img src="img/salary.png" class="salary">
-
-
-    </div>
 
     </div>
     </div>

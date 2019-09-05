@@ -3,10 +3,8 @@
 
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
-      <div class="sidebar-brand-icon rotate-n-15">
-        <i class="fas fa-laugh-wink"></i>
-      </div>
-      <div class="sidebar-brand-text mx-3">SB Admin <sup>2</sup></div>
+
+      <div class="sidebar-brand-text mx-3">RECURRED</div>
     </a>
 
     <!-- Divider -->
@@ -93,6 +91,24 @@
     <div class="text-center d-none d-md-inline">
       <button class="rounded-circle border-0" id="sidebarToggle"></button>
     </div>
+
+    <hr class="sidebar-divider">
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+    <li class="nav-item">
+      <a class="nav-link" href="index.php">
+        <i class="fas fa-fw fa-tachometer-alt"></i>
+        <span>Chat With Us</span></a>
+    </li>
 
   </ul>';
 ?>
